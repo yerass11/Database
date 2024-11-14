@@ -18,8 +18,6 @@ The course covers a wide range of topics, including:
 - **Lab Solutions:** `lab{number}_solution.sql`
   - Example: `lab4_solution.sql` for Lab #4
 
-This naming convention helps in easily identifying and accessing the solutions for each lab.
-
 ## ⚙️ How to Use
 
 **Clone the Repository:**
